@@ -1,0 +1,15 @@
+#Idea files
+.idea
+*.iml
+!/.idea/inspectionProfiles/
+
+#Mac files
+*.DS_Store
+#Maven files
+target
+allure-results
+SuiteTest.java
+#PMD log
+pmd_report.LOG
+#Temp folder for downloads
+C:\\folder_for_downloads/
